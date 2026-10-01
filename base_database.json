@@ -2334,6 +2334,29 @@
             "nova_group": "Group2ProcessedIngredient",
             "glycemic_index": 0,
             "ingredients_text": "Sal marina (clorur sòdic), antiaglomerant E-535."
+        },
+        {
+            "id": "base_101",
+            "name": "BONPREU Llet sencera en cartró",
+            "brand": "BONPREU",
+            "source_url": "https://www.compraonline.bonpreuesclat.cat/products/bonpreu-llet-sencera-en-cartr%C3%B3/81177",
+            "unit_type": "Per100g",
+            "per_unit_nutrition": {
+                "kcal": 63.0,
+                "fat_g": 3.6,
+                "saturated_fat_g": 2.5,
+                "carbs_g": 4.6,
+                "sugars_g": 4.6,
+                "fiber_g": 0.0,
+                "protein_g": 3.0,
+                "salt_g": 0.13,
+                "price_euro": 0.09599999999999999
+            },
+            "price_per_pack": 0.96,
+            "pack_weight_g": 1000.0,
+            "nova_group": "Group1Unprocessed",
+            "glycemic_index": 31,
+            "ingredients_text": ""
         }
     ],
     "dishes": [
