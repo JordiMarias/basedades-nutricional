@@ -2357,6 +2357,121 @@
             "nova_group": "Group1Unprocessed",
             "glycemic_index": 31,
             "ingredients_text": ""
+        },
+        {
+            "id": "base_102",
+            "name": "BONPREU Preparat de farina de blat per a pizza",
+            "brand": "BONPREU",
+            "source_url": "https://www.compraonline.bonpreuesclat.cat/products/bonpreu-preparat-de-farina-de-blat-per-a-pizza/46579",
+            "unit_type": "Per100g",
+            "per_unit_nutrition": {
+                "kcal": 339.0,
+                "fat_g": 1.3,
+                "saturated_fat_g": 0.3,
+                "carbs_g": 70.0,
+                "sugars_g": 2.2,
+                "fiber_g": 3.8,
+                "protein_g": 9.8,
+                "salt_g": 0.0,
+                "price_euro": 0.145
+            },
+            "price_per_pack": 1.45,
+            "pack_weight_g": 1000.0,
+            "nova_group": "Group1Unprocessed",
+            "glycemic_index": 75,
+            "ingredients_text": "Farina de blat i llevat sec. Pot contenir soja i mostassa."
+        },
+        {
+            "id": "base_103",
+            "name": "BONPREU Farina de blat ecològica",
+            "brand": "BONPREU",
+            "source_url": "https://www.compraonline.bonpreuesclat.cat/products/bonpreu-farina-de-blat-ecol%C3%B2gica/55559",
+            "unit_type": "Per100g",
+            "per_unit_nutrition": {
+                "kcal": 347.0,
+                "fat_g": 1.8,
+                "saturated_fat_g": 0.5,
+                "carbs_g": 71.0,
+                "sugars_g": 1.7,
+                "fiber_g": 5.0,
+                "protein_g": 9.2,
+                "salt_g": 0.1,
+                "price_euro": 0.189
+            },
+            "price_per_pack": 1.89,
+            "pack_weight_g": 1000.0,
+            "nova_group": "Group1Unprocessed",
+            "glycemic_index": 75,
+            "ingredients_text": "Farina de blat ecològica."
+        },
+        {
+            "id": "base_104",
+            "name": "BONPREU Formatge ratllat 4 formatges",
+            "brand": "BONPREU",
+            "source_url": "https://www.compraonline.bonpreuesclat.cat/products/bonpreu-formatge-ratllat-4-formatges/11973",
+            "unit_type": "Per100g",
+            "per_unit_nutrition": {
+                "kcal": 385.0,
+                "fat_g": 29.0,
+                "saturated_fat_g": 19.0,
+                "carbs_g": 3.0,
+                "sugars_g": 0.0,
+                "fiber_g": 0.0,
+                "protein_g": 28.0,
+                "salt_g": 1.8,
+                "price_euro": 1.125
+            },
+            "price_per_pack": 2.25,
+            "pack_weight_g": 200.0,
+            "nova_group": "Group3Processed",
+            "glycemic_index": 0,
+            "ingredients_text": "Formatge gouda (32 %), formatge cheddar, formatge emmental, formatge curat, antiaglomerant (fècula de patata)."
+        },
+        {
+            "id": "base_105",
+            "name": "BONPREU Formatge Parmigiano Reggiano",
+            "brand": "BONPREU",
+            "source_url": "https://www.compraonline.bonpreuesclat.cat/products/bonpreu-formatge-parmigiano-reggiano/04270",
+            "unit_type": "Per100g",
+            "per_unit_nutrition": {
+                "kcal": 402.0,
+                "fat_g": 30.0,
+                "saturated_fat_g": 20.0,
+                "carbs_g": 0.0,
+                "sugars_g": 0.0,
+                "fiber_g": 0.0,
+                "protein_g": 32.0,
+                "salt_g": 1.6,
+                "price_euro": 2.66
+            },
+            "price_per_pack": 3.99,
+            "pack_weight_g": 150.0,
+            "nova_group": "Group3Processed",
+            "glycemic_index": 0,
+            "ingredients_text": "Llet de vaca, sal, quall."
+        },
+        {
+            "id": "base_106",
+            "name": "L'HÒSTIA Ratafia",
+            "brand": "L'HÒSTIA",
+            "source_url": "https://www.compraonline.bonpreuesclat.cat/products/l-h%C3%B2stia-ratafia/85291",
+            "unit_type": "Per100g",
+            "per_unit_nutrition": {
+                "kcal": 284.0,
+                "fat_g": 0.0,
+                "saturated_fat_g": 0.0,
+                "carbs_g": 23.8,
+                "sugars_g": 23.4,
+                "fiber_g": 0.0,
+                "protein_g": 0.0,
+                "salt_g": 0.05,
+                "price_euro": 2.59
+            },
+            "price_per_pack": 12.95,
+            "pack_weight_g": 500.0,
+            "nova_group": "Group3Processed",
+            "glycemic_index": 65,
+            "ingredients_text": "conté licor de nous verdes macerat amb més de vint extractes naturals d'herbes i botànics com el romaní, la canyella, la sàlvia, la taronja, l'anís sec o el fonoll."
         }
     ],
     "dishes": [
