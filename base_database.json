@@ -2472,6 +2472,52 @@
             "nova_group": "Group3Processed",
             "glycemic_index": 65,
             "ingredients_text": "conté licor de nous verdes macerat amb més de vint extractes naturals d'herbes i botànics com el romaní, la canyella, la sàlvia, la taronja, l'anís sec o el fonoll."
+        },
+        {
+            "id": "base_107",
+            "name": "Vi blanc",
+            "brand": "Genèric",
+            "source_url": null,
+            "unit_type": "Per100ml",
+            "per_unit_nutrition": {
+                "kcal": 82.0,
+                "fat_g": 0.0,
+                "saturated_fat_g": 0.0,
+                "carbs_g": 2.6,
+                "sugars_g": 0.9,
+                "fiber_g": 0.0,
+                "protein_g": 0.1,
+                "salt_g": 0.01,
+                "price_euro": 0.36
+            },
+            "price_per_pack": 2.70,
+            "pack_weight_g": 750.0,
+            "nova_group": "Group3Processed",
+            "glycemic_index": 0,
+            "ingredients_text": "Raïm blanc fermentat, sulfits."
+        },
+        {
+            "id": "base_108",
+            "name": "Vi negre",
+            "brand": "Genèric",
+            "source_url": null,
+            "unit_type": "Per100ml",
+            "per_unit_nutrition": {
+                "kcal": 85.0,
+                "fat_g": 0.0,
+                "saturated_fat_g": 0.0,
+                "carbs_g": 2.6,
+                "sugars_g": 0.6,
+                "fiber_g": 0.0,
+                "protein_g": 0.1,
+                "salt_g": 0.01,
+                "price_euro": 0.40
+            },
+            "price_per_pack": 3.00,
+            "pack_weight_g": 750.0,
+            "nova_group": "Group3Processed",
+            "glycemic_index": 0,
+            "ingredients_text": "Raïm fermentat, sulfits."
         }
     ],
     "dishes": [
