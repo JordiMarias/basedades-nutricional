@@ -2541,6 +2541,52 @@
             "nova_group": "Group4UltraProcessed",
             "glycemic_index": 55,
             "ingredients_text": "Chili (54%), sucre, all, sal, aigua, acidulants (àcid acètic, àcid cítric), potenciador del gust (glutamat monosòdic), conservant (benzoat de sodi)."
+        },
+        {
+            "id": "base_110",
+            "name": "Daylicious Sandwitch Pollo",
+            "brand": "Aldi",
+            "source_url": null,
+            "unit_type": "Per100g",
+            "per_unit_nutrition": {
+                "kcal": 217.0,
+                "fat_g": 8.0,
+                "saturated_fat_g": 2.2,
+                "carbs_g": 24.0,
+                "sugars_g": 1.0,
+                "fiber_g": 3.0,
+                "protein_g": 10.8,
+                "salt_g": 1.54,
+                "price_euro": 0.0
+            },
+            "price_per_pack": null,
+            "pack_weight_g": null,
+            "nova_group": "Group4UltraProcessed",
+            "glycemic_index": 67,
+            "ingredients_text": null
+        },
+        {
+            "id": "base_111",
+            "name": "Daylicious Sandwitch Club",
+            "brand": "Aldi",
+            "source_url": null,
+            "unit_type": "Per100g",
+            "per_unit_nutrition": {
+                "kcal": 211.0,
+                "fat_g": 7.6,
+                "saturated_fat_g": 1.62,
+                "carbs_g": 23.6,
+                "sugars_g": 1.4,
+                "fiber_g": 2.8,
+                "protein_g": 10.7,
+                "salt_g": 1.73,
+                "price_euro": 0.0
+            },
+            "price_per_pack": null,
+            "pack_weight_g": null,
+            "nova_group": "Group4UltraProcessed",
+            "glycemic_index": 67,
+            "ingredients_text": "Pollo, bacon, tomate seco, salsa fina y salsa BBQ"
         }
     ],
     "dishes": [
