@@ -2955,6 +2955,52 @@
             "nova_group": "Group3Processed",
             "glycemic_index": 0,
             "ingredients_text": "Tonyina clara (peix), oli d'oliva i sal."
+        },
+        {
+            "id": "base_128",
+            "name": "Lomo Embuchado",
+            "brand": "Aldi",
+            "source_url": null,
+            "unit_type": "Per100g",
+            "per_unit_nutrition": {
+                "kcal": 203.0,
+                "fat_g": 6.7,
+                "saturated_fat_g": 2.2,
+                "carbs_g": 0.7,
+                "sugars_g": 0.7,
+                "fiber_g": 0.0,
+                "protein_g": 35.0,
+                "salt_g": 3.6,
+                "price_euro": 1.66
+            },
+            "price_per_pack": null,
+            "pack_weight_g": null,
+            "nova_group": "Group3Processed",
+            "glycemic_index": 0,
+            "ingredients_text": "Llom de porc (100g de llom provenen de 142g de carn), sal, pebre vermell, all, dextrosa, conservants (nitrat sòdic i nitrat potàssic) i antioxidant (ascorbat sòdic)."
+        },
+        {
+            "id": "base_129",
+            "name": "Ramen Pollastre",
+            "brand": "Maggi",
+            "source_url": null,
+            "unit_type": "Per100g",
+            "per_unit_nutrition": {
+                "kcal": 438.0,
+                "fat_g": 15.1,
+                "saturated_fat_g": 1.2,
+                "carbs_g": 62.4,
+                "sugars_g": 5.7,
+                "fiber_g": 3.8,
+                "protein_g": 10.1,
+                "salt_g": 3.9,
+                "price_euro": 1.1111111111111112
+            },
+            "price_per_pack": 1.0,
+            "pack_weight_g": 90.0,
+            "nova_group": "Group4UltraProcessed",
+            "glycemic_index": 55,
+            "ingredients_text": "Fideus orientals (farina de blat, oli vegetal, sal, gluten de blat, estabilitzant (polifosfats), corrector d'acidesa (carbonats de potassi)), sobre de condiment (sal, aromes, espècies, ceba, all, oli vegetal, extracte de llevat)."
         }
     ],
     "dishes": [
